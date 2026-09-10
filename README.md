@@ -4,21 +4,15 @@ Official Meow downloads and release notes from **Decision Cue**.
 
 ## Availability
 
-[Meow Beta 1.0.0-beta.10 for Windows 11 x64](https://github.com/DecisionCue/meow-downloads/releases/tag/v1.0.0-beta.10) is available. Use **Get Meow** on the [official website](https://decisioncue.com/) to download. SHA256SUMS.txt is provided with the release.
+[Meow Beta 1.0.0-beta.11 for Windows 11 x64](https://github.com/DecisionCue/meow-downloads/releases/tag/v1.0.0-beta.11) is available. Use **Get Meow** on the [official website](https://decisioncue.com/) to download. SHA256SUMS.txt is provided with the release. Only the latest release and tag are retained publicly; superseded official downloads are removed. Copies already downloaded by others cannot be recalled.
 
 This is an unsigned beta installer. Updates require manual installation. Screen Privacy cannot block every capture method; verify the actual receiving or recorded view before sharing sensitive information. Obtain required permissions before transmitting system audio. No macOS, ARM64, 32-bit Windows or portable release is included.
 
 ## Use and Licensing
 
-Permitted use. Subject to the full Terms of Use, the current Meow Beta may be downloaded and installed without a software licence fee. Ordinary lawful browsing is permitted for both personal and business users. All functions may be used for lawful personal, non-commercial purposes without separate authorization.
+The current Meow Beta is free for lawful personal and business browsing. All functions are available for personal, non-commercial use. Business or organizational use of System Audio Input, Screen Privacy or Floating Mirror requires prior written authorization from Decision Cue. Otherwise, disable these functions in Settings before business browsing; opening Meow to do so is permitted. Default settings and technical access do not grant authorization. Contact info@decisioncue.com. Full Terms of Use and non-waivable legal rights apply.
 
-Business and organizational use. Prior express written authorization from Decision Cue is required to use System Audio Input, Screen Privacy or Floating Mirror for work performed for, on behalf of, or primarily for the benefit of an employer, client, business, school, government body or other organization, or in connection with your own trade, business, craft or profession.
-
-Requesting authorization. Email info@decisioncue.com and obtain written authorization before using any of those three functions for business or organizational purposes. Sending a request, receiving no reply, or being able to access a function does not grant authorization. Any payment obligation requires a separate written agreement or authorization and any acceptance required by law.
-
-Business browsing without authorization. Turn off System Audio Input, Screen Privacy and Floating Mirror in Meow settings before browsing for business or organizational purposes. You may open Meow to review settings and turn them off. Their default-enabled state does not grant authorization. This summary does not replace the full Terms of Use or limit rights that applicable law does not permit to be waived.
-
-Beta 10 presents the complete Terms of Use and Privacy Notice on two separate scrollable installer pages. Terms 7.0 and Privacy Notice 3.0 remain effective 2026-09-10. Terms acceptance is initially unchecked; continuing past the Privacy Notice is not blanket consent to processing. The full documents are included in both installer formats and the offline browser pages.
+Beta 11 presents the complete Terms of Use and Privacy Notice on two separate scrollable installer pages. Terms 7.0 and Privacy Notice 3.0 remain effective 2026-09-10. Terms acceptance is initially unchecked; continuing past the Privacy Notice is not blanket consent to processing. The full documents are included in both installer formats and the offline browser pages.
 
 Read the [Terms of Use](https://decisioncue.com/terms) and [Privacy Notice](https://decisioncue.com/privacy). Translations and summaries remain subject to the full English documents and mandatory local law.
 
