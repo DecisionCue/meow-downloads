@@ -4,11 +4,11 @@ Official Meow downloads and release notes from **Decision Cue**.
 
 ## Current release
 
-[Meow Beta 19 for Windows 11 x64](https://github.com/DecisionCue/meow-downloads/releases/tag/v1.0.0-beta.19). Use **Get Meow** on the [official website](https://decisioncue.com/). The EXE is the primary installer; expand installation help if you need the portable ZIP. SHA256SUMS.txt accompanies the release. Only the latest official release and tag are retained publicly. Previously downloaded or redistributed copies cannot be recalled.
+[Meow Beta 20 for Windows 11 x64](https://github.com/DecisionCue/meow-downloads/releases/tag/v1.0.0-beta.20). Use **Get Meow** on the [official website](https://decisioncue.com/). The EXE is the primary installer; expand installation help if you need the portable ZIP. SHA256SUMS.txt accompanies the release. Only the latest official release and tag are retained publicly. Previously downloaded or redistributed copies cannot be recalled.
 
-Meow offers ordinary browsing, System Audio Input, Screen Privacy, Floating Mirror and optional user-selected third-party extensions. No extensions are preinstalled. Import a compatible signed Chrome or Edge package or provide its official store link, review the permissions, and choose whether to install. Compatibility varies by extension and feature.
+Meow offers ordinary browsing, System Audio Input, Screen Privacy, Floating Mirror and optional user-selected third-party extensions. No extensions are preinstalled. Paste an official Chrome or Edge store link into Meow, review the permissions, and choose whether to install. Compatibility varies by extension and feature.
 
-Beta 19 adds a five-step Chrome/Edge extension download and import guide in all twelve languages. In Settings → Extensions, paste an official store-page link under “Cannot find the .crx file?”, choose “Review installation”, then “Save CRX file” to save the verified package. Import the saved file and review permissions before choosing “Install this version”. Saving alone does not install an extension. Direct installation from the review remains available. The guide also appears on both websites and offline Start. Get Meow displays the exact download version; disabling extensions hides its toolbar shortcut.
+Beta 20 makes adding extensions easier. Find an extension in the Chrome or Edge store, copy its page link and paste it into Settings → Extensions in Meow. Choose Continue; Meow downloads and checks the extension. Review its permissions and choose Install this version to add it. There is no need to save or import a file. A short three-step guide appears in Meow, both websites and offline Start in all twelve languages. File import remains an optional secondary choice.
 
 ## Your data
 
