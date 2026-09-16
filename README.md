@@ -4,9 +4,11 @@ Official Meow downloads and release notes from **Decision Cue**.
 
 ## Current release
 
-[Meow Beta 17 for Windows 11 x64](https://github.com/DecisionCue/meow-downloads/releases/tag/v1.0.0-beta.17). Use **Get Meow** on the [official website](https://decisioncue.com/). The EXE is the primary installer; expand installation help if you need the portable ZIP. SHA256SUMS.txt accompanies the release. Only the latest official release and tag are retained publicly. Previously downloaded or redistributed copies cannot be recalled.
+[Meow Beta 18 for Windows 11 x64](https://github.com/DecisionCue/meow-downloads/releases/tag/v1.0.0-beta.18). Use **Get Meow** on the [official website](https://decisioncue.com/). The EXE is the primary installer; expand installation help if you need the portable ZIP. SHA256SUMS.txt accompanies the release. Only the latest official release and tag are retained publicly. Previously downloaded or redistributed copies cannot be recalled.
 
-Meow offers ordinary browsing, System Audio Input, Screen Privacy, Floating Mirror and optional user-selected third-party extensions. No extensions are preinstalled. Import a compatible signed Chrome or Edge package or provide its official store link, review the permissions, and choose whether to install. Compatibility varies by extension and feature; Firefox imports are not supported in this release. Third-party names do not imply affiliation or endorsement.
+Meow offers ordinary browsing, System Audio Input, Screen Privacy, Floating Mirror and optional user-selected third-party extensions. No extensions are preinstalled. Import a compatible signed Chrome or Edge package or provide its official store link, review the permissions, and choose whether to install. Compatibility varies by extension and feature.
+
+Beta 18 adds Vietnamese across the browser, both websites and offline summaries. Get Meow displays the exact download version. Turning off extensions mode immediately hides its address-bar shortcut; the runtime change still takes effect after reopening Meow.
 
 ## Your data
 
