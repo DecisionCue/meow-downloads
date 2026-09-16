@@ -2,35 +2,41 @@
 
 Official Meow downloads and release notes from **Decision Cue**.
 
-## Availability
+## Current release
 
-[Meow Beta 1.0.0-beta.11 for Windows 11 x64](https://github.com/DecisionCue/meow-downloads/releases/tag/v1.0.0-beta.11) is available. Use **Get Meow** on the [official website](https://decisioncue.com/) to download. SHA256SUMS.txt is provided with the release. Only the latest release and tag are retained publicly; superseded official downloads are removed. Copies already downloaded by others cannot be recalled.
+[Meow Beta 17 for Windows 11 x64](https://github.com/DecisionCue/meow-downloads/releases/tag/v1.0.0-beta.17). Use **Get Meow** on the [official website](https://decisioncue.com/). The EXE is the primary installer; expand installation help if you need the portable ZIP. SHA256SUMS.txt accompanies the release. Only the latest official release and tag are retained publicly. Previously downloaded or redistributed copies cannot be recalled.
 
-This is an unsigned beta installer. Updates require manual installation. Screen Privacy cannot block every capture method; verify the actual receiving or recorded view before sharing sensitive information. Obtain required permissions before transmitting system audio. No macOS, ARM64, 32-bit Windows or portable release is included.
+Meow offers ordinary browsing, System Audio Input, Screen Privacy, Floating Mirror and optional user-selected third-party extensions. No extensions are preinstalled. Import a compatible signed Chrome or Edge package or provide its official store link, review the permissions, and choose whether to install. Compatibility varies by extension and feature; Firefox imports are not supported in this release. Third-party names do not imply affiliation or endorsement.
 
-## Use and Licensing
+## Your data
+
+Meow does not maintain a browsing-history list. Website sign-ins, cookies and temporary website data are cleared on normal close. Extensions mode retries cleanup before browsing starts again, including after interruption. Installed extensions and their own saved data remain; some extensions may need you to sign in again. Settings, bookmarks and downloaded files also remain. Extensions can keep or send their own records under their permissions.
+
+This is not a promise of untraceable browsing or secure erasure. Websites, network operators, device administrators and monitoring tools may keep records that Meow cannot remove. A supported third-party VPN extension affects the Extensions-mode website profile, not every Meow request or other applications. Read the full [Privacy Notice](https://decisioncue.com/privacy).
+
+## Use and licensing
 
 The current Meow Beta is free for lawful personal and business browsing. All functions are available for personal, non-commercial use. Business or organizational use of System Audio Input, Screen Privacy or Floating Mirror requires prior written authorization from Decision Cue. Otherwise, disable these functions in Settings before business browsing; opening Meow to do so is permitted. Default settings and technical access do not grant authorization. Contact info@decisioncue.com. Full Terms of Use and non-waivable legal rights apply.
 
-Beta 11 presents the complete Terms of Use and Privacy Notice on two separate scrollable installer pages. Terms 7.0 and Privacy Notice 3.0 remain effective 2026-09-10. Terms acceptance is initially unchecked; continuing past the Privacy Notice is not blanket consent to processing. The full documents are included in both installer formats and the offline browser pages.
+Terms of Use 8.0 and Privacy Notice 7.0 are effective 16 September 2026. The installer and portable first launch present the complete English documents on separate scrollable pages. Terms acceptance starts unchecked. Reading the Privacy Notice is not blanket consent to processing. Full notices are also available offline and on both websites. Translations and summaries are subject to the full English text only where permitted by mandatory local law.
 
-Read the [Terms of Use](https://decisioncue.com/terms) and [Privacy Notice](https://decisioncue.com/privacy). Translations and summaries remain subject to the full English documents and mandatory local law.
+## Installation and updates
 
-## Installation Help
+This Windows 11 x64 beta is unsigned and uses manual application updates. Download the current release from the official website. No macOS, ARM64 or 32-bit release is included. The portable ZIP replaces the MSI alternative for this release.
 
-The EXE is the primary installer. If you cannot use it, open **Can't install the .exe?** in **Get Meow** on the [official website](https://decisioncue.com/) to obtain the MSI alternative. The MSI is a per-user Windows Installer package with an English installation interface. Organizational installation policies still apply. The browser supports 11 languages with either format.
+For an existing EXE installation, close Meow and run the new EXE installer. If switching from an older MSI installation, uninstall that installation first. Saved files and existing local data are not automatically erased by uninstalling.
 
-Use the same installer format for future manual updates. To switch formats, uninstall the existing copy first; the installers check for an existing installation of the other format. The MSI does not enable automatic updates or grant business authorization for the three Restricted Functions.
+For portable use, extract the entire ZIP into a writable folder, then open **Meow Beta.exe**. Do not run inside the ZIP. The program still runs executable files and remains subject to Windows execution restrictions. **MeowData** beside the program holds your settings and any imported extensions and their own saved data. Keep it private. To update, close Meow, extract the new release into a separate folder, make a backup, then copy your MeowData folder. Moving to another Windows account or device may require signing in again. Share the official download link, not your personal MeowData folder.
 
-System Audio Input mode is selected by default. Selecting the mode alone does not start capture. An authorized request from the active, focused website after recent interaction, or the local audio check, starts capture; the first system-audio request has no separate Meow permission prompt. Check the mode and recipient before using website audio. Ordinary microphone access requires separate permission.
+Screen Privacy is best effort; verify the actual receiving or recorded view before sharing sensitive information. Obtain required permissions before transmitting system audio. Selecting System Audio Input alone does not start capture; an authorized active website audio request can use the selected source without a separate first-use Meow system-audio prompt. Check the input mode and recipient before using website audio.
 
-## Official Links
+## Links and repository scope
 
 - [Decision Cue](https://decisioncue.com/)
 - [Meow Home](https://decicue.com/)
+- [Terms of Use](https://decisioncue.com/terms)
+- [Privacy Notice](https://decisioncue.com/privacy)
 
-## Repository Scope
+This repository contains public download information and compiled release assets. Meow application source, signing keys and user profiles are not published here. GitHub's automatic source archives contain only this repository's public documentation.
 
-This repository contains public download information, compiled installers and release notes. Meow application source code, signing keys and user data are not published here. Automatically generated source archives contain only this repository's public files, not the Meow application source.
-
-Report security concerns privately to [info@decisioncue.com](mailto:info@decisioncue.com). Do not post passwords or private browsing data in public issues.
+Report security concerns privately to [info@decisioncue.com](mailto:info@decisioncue.com). Do not post passwords or browsing data in public issues.
