@@ -4,11 +4,11 @@ Official Meow downloads and release notes from **Decision Cue**.
 
 ## Current release
 
-[Meow Beta 22 for Windows 11 x64](https://github.com/DecisionCue/meow-downloads/releases/tag/v1.0.0-beta.22). Use **Get Meow** on the [official website](https://decisioncue.com/). The EXE is the primary installer; expand installation help if you need the portable ZIP. SHA256SUMS.txt accompanies the release. Only the latest official release and tag are retained publicly. Previously downloaded or redistributed copies cannot be recalled.
+[Meow Beta 23 for Windows 11 x64](https://github.com/DecisionCue/meow-downloads/releases/tag/v1.0.0-beta.23). Use **Get Meow** on the [official website](https://decisioncue.com/). The EXE is the primary installer; expand installation help if you need the portable ZIP. SHA256SUMS.txt accompanies the release. Only the latest official release and tag are retained publicly. Previously downloaded or redistributed copies cannot be recalled.
 
-Meow offers ordinary browsing, System Audio Input, Screen Privacy, Floating Mirror and optional user-selected third-party extensions. No extensions are preinstalled. Paste a supported extension store link into Meow, review the permissions, and choose whether to install. Compatibility varies by extension and feature.
+Meow offers ordinary browsing, System Audio Input, Screen Privacy, Floating Mirror and optional user-selected third-party extensions. No extensions are preinstalled. Choose an extension and its source, paste a supported page link, and select “Review”. Review the permissions and publisher terms before separately choosing “Install this version” to install it on your current computer. Compatibility varies by extension and feature.
 
-Beta 22 introduces brand-neutral extension guidance and updated Terms of Use and Privacy Notice. Meow provides convenient tools for processing extensions you select. You choose the source and intended use and must have the necessary rights and comply with applicable licences, service terms and law. Store-link downloads, file imports and requested update checks remain available. Review the permissions before installing each version. The address-bar button opens your installed extensions directly.
+Beta 23 clarifies “Add an extension by link” in twelve languages. You choose the extension, source and intended use. Review the details and decide whether to install it. Review does not install the extension. Installation requires a separate choice and takes place on the computer you are using. You must have the necessary rights and comply with applicable licences, source-service terms and law. File import and requested extension updates remain available. The address-bar button opens your installed extensions directly.
 
 ## Your data
 
